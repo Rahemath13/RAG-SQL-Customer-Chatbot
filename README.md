@@ -24,7 +24,7 @@ The chatbot accepts natural language questions and generates relevant SQL querie
 Here is an example query and output from the chatbot:
 
 **Example 1:**  
-_Input:_ what is the average satisfaction by the region
+_Input:_ what is the average satisfaction scored by  region
 _Output:_  
 ![Screenshot 1](results/Screenshot_1.png)
 ![Screenshot 2](results/Screenshot_2.png)
