@@ -19,7 +19,14 @@ The chatbot accepts natural language questions and generates relevant SQL querie
 - **OpenAI API** – SQL query generation  
 
 ---
-## Results:
+## 🖼️ Sample Results
+
+Here is an example query and output from the chatbot:
+
+**Example 1:**  
+_Input:_ Show me all customers from New York.  
+_Output:_  
+![Example 1](results/example1.png)
 
 
 
