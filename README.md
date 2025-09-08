@@ -26,10 +26,8 @@ Here is an example query and output from the chatbot:
 **Example 1:**  
 _Input:_ Show me all customers from New York.  
 _Output:_  
-![Screenshot2025-07-15 103820.png](results/Screenshot2025-07-15 103820.png)
-
-![Screenshot2025-07-15 103837.png](results/Screenshot2025-07-15 103837.png)
-
+![Screenshot1.png](results/Screenshot1.png)
+![Screenshot2.png](results/Screenshot2.png)
 
 ## ⚙️ Setup & Installation
 
